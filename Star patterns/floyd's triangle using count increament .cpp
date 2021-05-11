@@ -10,6 +10,7 @@ int main()
         for(j=1;j<=i;j++)
         {
             cout<<i<<" ";
+            //cout<<"this is a dummy project"
         }
         cout<<endl;
 
